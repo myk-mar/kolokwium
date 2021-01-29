@@ -1,0 +1,3 @@
+/home/student/Documents/kolokwium/zad3/build/CMakeFiles/rebuild_cache.dir
+/home/student/Documents/kolokwium/zad3/build/CMakeFiles/app.dir
+/home/student/Documents/kolokwium/zad3/build/CMakeFiles/edit_cache.dir

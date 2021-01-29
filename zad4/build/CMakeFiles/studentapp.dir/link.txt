@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/studentapp.dir/src/libtest.cpp.o  -o studentapp -Wl,-rpath,/home/student/Documents/kolokwium/zad4/build: libstudlib.so 
